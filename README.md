@@ -61,39 +61,44 @@
 
 ## 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="center">
 
-  <!-- Project 1 -->
-  <div style="flex: 1 1 calc(33% - 20px); min-width: 250px;">
-    <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
-    </a>
-    <p><strong>Simple Chat Application</strong> – A real-time chat app built with Node.js, Express, Socket.io, and React for seamless messaging.</p>
-  </div>
+  <!-- Row 1 -->
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/Blog-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Blog-App&theme=radical" />
+  </a>
 
-  <!-- Project 2 -->
-  <div style="flex: 1 1 calc(33% - 20px); min-width: 250px;">
-    <a href="https://github.com/DhruvSolanki01259/Portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Portfolio&theme=radical" />
-    </a>
-    <p><strong>Portfolio Website</strong> – Personal portfolio built with React, Tailwind, and Framer Motion showcasing my work and skills.</p>
-  </div>
+  <br/><br/>
 
-  <!-- Project 3 -->
-  <div style="flex: 1 1 calc(33% - 20px); min-width: 250px;">
-    <a href="https://github.com/DhruvSolanki01259/Another-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Another-Project&theme=radical" />
-    </a>
-    <p><strong>Another Cool Project</strong> – Short description of what this project does and the tech stack it uses.</p>
-  </div>
+  <!-- Row 2 -->
+  <a href="https://github.com/DhruvSolanki01259/Weather-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Weather-App&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/E-Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=E-Commerce&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/Todo-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Todo-App&theme=radical" />
+  </a>
 
-  <!-- Project 4 -->
-  <div style="flex: 1 1 calc(33% - 20px); min-width: 250px;">
-    <a href="https://github.com/DhruvSolanki01259/Next-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Next-Project&theme=radical" />
-    </a>
-    <p><strong>Next Project</strong> – Short description here, explaining purpose and key technologies.</p>
-  </div>
+  <br/><br/>
+
+  <!-- Row 3 -->
+  <a href="https://github.com/DhruvSolanki01259/ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ChatBot&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/Notes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Notes-App&theme=radical" />
+  </a>
+  <a href="https://github.com/DhruvSolanki01259/Auth-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Auth-System&theme=radical" />
+  </a>
 
 </div>
 
