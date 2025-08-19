@@ -62,28 +62,18 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <!-- Portfolio Website -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Portfolio%20Website-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
-  </a>  
-  <br/>
-  <em>A sleek, animated portfolio built with <b>React + Tailwind + Framer Motion</b> featuring light & dark themes.</em>  
-  <br/><br/>
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+  <a href="https://github.com/your-repo-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=your-repo-link&theme=radical" />
+  </a>
+</p>
 
-  <!-- MERN Auth App -->
-  <a href="https://github.com/your-repo-link" target="_blank">
-    <img src="https://img.shields.io/badge/Project-MERN%20Auth%20App-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>  
-  <br/>
-  <em>Secure login/signup with JWT, bcrypt, and role-based auth. Includes password reset flow.</em>  
-  <br/><br/>
-
-  <!-- Real-time Chat App -->
-  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Real%20Time%20Chat%20App-ff9800?style=for-the-badge&logo=socket.io&logoColor=white" />
-  </a>  
-  <br/>
-  <em>A real-time chat app using <b>Socket.IO, Node.js, and Express</b>, allowing multiple users to join and chat seamlessly.</em>  
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=portfolio-website&theme=radical" />
+  </a>
 </p>
 
 ---
