@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
 <h3 align="center">🚀 Engineering Student @ KJ Somaiya Institute of Technology</h3>
-<h4 align="center">💻 MERN Stack Developer | 📚 DSA Learner | ✨ UI Enthusiast</h4>
+<h4 align="center">💻 MERN Stack Developer | 📚 DSA Learner</h4>
 
 ---
 
@@ -12,38 +12,58 @@
 
 ---
 
+## 🌱 About Me
+- 🔭 Currently exploring **React Animations (Framer Motion)** & **System Design basics**  
+- 📚 Deep-diving into **DSA (C++)**  
+- 🎨 Love creating clean **UI/UX with Tailwind**  
+- ⚡ Fun Fact: I debug faster when I have chai ☕ nearby  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <br/>
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <br/>
-  <!-- DB -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
-  </a>
-</p>
+<div align="center">
 
-✨ *More projects coming soon!*  
+<a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+</a>
+<a href="https://github.com/DhruvSolanki01259/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Portfolio&theme=radical" />
+</a>
+<a href="https://github.com/DhruvSolanki01259/Some-Other-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Some-Other-Project&theme=radical" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/DhruvSolanki01259/Next-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Next-Project&theme=radical" />
+</a>
+<a href="https://github.com/DhruvSolanki01259/Another-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Another-Project&theme=radical" />
+</a>
+<a href="https://github.com/DhruvSolanki01259/Cool-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Cool-App&theme=radical" />
+</a>
+
+</div>
 
 ---
 
@@ -61,14 +81,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvSolanki01259&bg_color=1c1c1c&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
----
-
-## 🌱 About Me
-- 🔭 Currently exploring **React Animations** (Framer Motion) & **System Design basics**  
-- 📚 Deep-diving into **DSA (C++) & Number Theory**  
-- 🎨 Love creating clean **UI/UX with Tailwind**  
-- ⚡ Fun Fact: I debug faster when I have chai ☕ nearby  
 
 ---
 
