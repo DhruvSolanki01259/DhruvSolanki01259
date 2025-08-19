@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="45%" />
   </a>
 </p>
 
