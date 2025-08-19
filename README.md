@@ -43,8 +43,13 @@
 
 <p align="center">
   <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="55%"/>
   </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://your-live-app-link.com" target="_blank"><b>Live Demo</b></a> •  
+  📂 <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application" target="_blank"><b>Source Code</b></a>
 </p>
 
 ---
