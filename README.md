@@ -59,48 +59,32 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-<div align="center">
-
-  <!-- Row 1 -->
-  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Portfolio&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/Blog-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Blog-App&theme=radical" />
-  </a>
-
+<p align="center">
+  <!-- Portfolio Website -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Portfolio%20Website-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
+  </a>  
+  <br/>
+  <em>A sleek, animated portfolio built with <b>React + Tailwind + Framer Motion</b> featuring light & dark themes.</em>  
   <br/><br/>
 
-  <!-- Row 2 -->
-  <a href="https://github.com/DhruvSolanki01259/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Weather-App&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/E-Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=E-Commerce&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Todo-App&theme=radical" />
-  </a>
-
+  <!-- MERN Auth App -->
+  <a href="https://github.com/your-repo-link" target="_blank">
+    <img src="https://img.shields.io/badge/Project-MERN%20Auth%20App-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>  
+  <br/>
+  <em>Secure login/signup with JWT, bcrypt, and role-based auth. Includes password reset flow.</em>  
   <br/><br/>
 
-  <!-- Row 3 -->
-  <a href="https://github.com/DhruvSolanki01259/ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ChatBot&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/Notes-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Notes-App&theme=radical" />
-  </a>
-  <a href="https://github.com/DhruvSolanki01259/Auth-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Auth-System&theme=radical" />
-  </a>
-
-</div>
+  <!-- Real-time Chat App -->
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Real%20Time%20Chat%20App-ff9800?style=for-the-badge&logo=socket.io&logoColor=white" />
+  </a>  
+  <br/>
+  <em>A real-time chat app using <b>Socket.IO, Node.js, and Express</b>, allowing multiple users to join and chat seamlessly.</em>  
+</p>
 
 ---
 
