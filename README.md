@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+build+Full+Stack+Web+Apps;I+love+DSA+and+Problem+Solving;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+build+Full+Stack+Web+Applications;I+love+DSA+and+Problem+Solving;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🔭 Currently exploring **React Animations (Framer Motion)** & **System Design basics**  
 - 📚 Deep-diving into **DSA (C++)**  
 - 🎨 Love creating clean **UI/UX with Tailwind**  
-- ⚡ Fun Fact: I debug faster when I have chai ☕ nearby  
+- ⚡ Fun Fact: I debug faster when I have coffee 🍵 nearby  
 
 ---
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 <p align="center">
@@ -44,18 +44,6 @@
 <p align="center">
   <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="60%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DhruvSolanki01259/your-mern-auth-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=your-mern-auth-repo&theme=radical" width="60%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DhruvSolanki01259/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=portfolio-website&theme=radical" width="60%"/>
   </a>
 </p>
 
