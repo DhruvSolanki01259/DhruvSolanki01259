@@ -1,54 +1,90 @@
-# Hi, I'm Dhruv 👋  
-
-🚀 Engineering Student @ KJ Somaiya Institute of Technology  
-💻 MERN Stack Developer | DSA Learner  
-✨ Currently exploring **DSA to strengthen my problem-solving skills** & **React animations (Framer Motion)**  
+<!-- Hero Section -->
+<h1 align="center">Hi, I'm Dhruv 👋</h1>
+<h3 align="center">🚀 Engineering Student @ KJ Somaiya Institute of Technology</h3>
+<h4 align="center">💻 MERN Stack Developer | 📚 DSA Learner | ✨ UI Enthusiast</h4>
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Code-React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animation-Framer%20Motion-FF4D8B?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+build+Full+Stack+Web+Apps;I+love+DSA+and+Problem+Solving;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-
-🔗 [**Portfolio Website**](#)  
-A sleek, animated portfolio built with **React + Tailwind + Framer Motion** featuring light & dark themes.  
-
-🔗 [**MERN Auth App**](#)  
-Secure login/signup with JWT, bcrypt, and role-based auth. Includes password reset flow.  
-
-🔗 [**Real-time Chat Application**](https://github.com/DhruvSolanki01259/3-Simple-Chat-Application)  
-A real-time chat app using **Socket.IO, Node.js, and Express**, allowing multiple users to join and communicate seamlessly.  
-
----
-
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvSolanki01259&show_icons=true&theme=radical" alt="Dhruv's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSolanki01259&theme=radical" alt="streak stats" height="160"/>
-</p>  
-
----
-
-## 🌱 Quote I live by  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-solanki-699679313/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:dhruvsolanki0129@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <br/>
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
+
+✨ *More projects coming soon!*  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvSolanki01259&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSolanki01259&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSolanki01259&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvSolanki01259&bg_color=1c1c1c&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌱 About Me
+- 🔭 Currently exploring **React Animations** (Framer Motion) & **System Design basics**  
+- 📚 Deep-diving into **DSA (C++) & Number Theory**  
+- 🎨 Love creating clean **UI/UX with Tailwind**  
+- ⚡ Fun Fact: I debug faster when I have chai ☕ nearby  
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:dhruvsolanki0129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhruv-solanki-699679313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ From [DhruvSolanki01259](https://github.com/DhruvSolanki01259)
