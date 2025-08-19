@@ -23,47 +23,85 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Frontend -->
+  <strong>Frontend</strong><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </p>
 
+<br/>
+
 <p align="center">
+  <!-- Backend -->
+  <strong>Backend</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
+
+<br/>
+
+<p align="center">
+  <!-- Database -->
+  <strong>Database</strong><br/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<br/>
+
+<p align="center">
+  <!-- Tools -->
+  <strong>Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
-</a>
-<a href="https://github.com/DhruvSolanki01259/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Portfolio&theme=radical" />
-</a>
-<a href="https://github.com/DhruvSolanki01259/Some-Other-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Some-Other-Project&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/DhruvSolanki01259/Next-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Next-Project&theme=radical" />
-</a>
-<a href="https://github.com/DhruvSolanki01259/Another-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Another-Project&theme=radical" />
-</a>
-<a href="https://github.com/DhruvSolanki01259/Cool-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=Cool-App&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" />
+  </a>
+</p>
 
 ---
 
