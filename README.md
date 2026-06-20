@@ -1,22 +1,26 @@
-<!-- Hero Section -->
+<!-- HERO SECTION -->
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
-<h3 align="center">🚀 Engineering Graduate (2026) @ KJ Somaiya Institute of Technology</h3>
-<h4 align="center">💻 AI Full Stack Developer </h4>
+
+<h3 align="center">🚀 Computer Engineering Graduate (2026) | KJ Somaiya Institute of Technology</h3>
+
+<h4 align="center">💻 AI Full Stack Developer | ⚡ Building Scalable Web & AI Systems</h4>
 
 ---
 
-<!-- Typing SVG -->
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I+build+Full+Stack+Web+Applications;I+love+DSA+and+Problem+Solving;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Web+Developer;AI+Integration+%26+Agent+Systems;DSA+%26+Problem+Solving+Enthusiast;Always+learning+and+building+🚀" />
 </p>
 
 ---
 
 ## 🌱 About Me
-- 🔭 Currently exploring **LangChain, LangGraph, RAG, AI Integration, AI Agents** & **Agentic AI**  
-- 📚 Deep-diving into **DSA (C++)**  
-- 🎨 Love creating clean **UI/UX with Tailwind and Next.js**  
-- ⚡ Fun Fact: I debug faster when I have coffee 🍵 nearby  
+
+- 🔭 Currently building with **AI Agents, LangChain, LangGraph, and RAG pipelines**
+- 🧠 Strong focus on **Full Stack Development + System Design fundamentals**
+- 💡 Passionate about designing **scalable backend systems and intelligent applications**
+- 🎯 Actively sharpening **DSA in C++ for problem-solving depth**
+- ⚡ I build, break, and rebuild — that’s the learning loop
 
 ---
 
@@ -24,42 +28,48 @@
 
 ### 💻 Frontend
 - React.js
-- Next.js (basics / learning phase if you're using it)
+- Next.js
 - Tailwind CSS
 - Framer Motion
-- HTML5, CSS3, JavaScript (ES6+)
+- JavaScript (ES6+)
+- HTML5, CSS3
 
 ### ⚙️ Backend
 - Node.js
 - Express.js
 - REST APIs
-- Authentication (JWT, password reset flows)
+- JWT Authentication
+- Secure backend workflows (auth, reset flows)
 
 ### 🗄️ Database
 - MongoDB
-- Mongoose
+- Mongoose ODM
 
-### 🔗 Tools & Libraries
-- Axios
+### 🤖 AI / LLM Stack
+- AI Integration in Web Apps
+- LLM-based Applications
+- LangChain
+- LangGraph
+- RAG (Retrieval-Augmented Generation)
+- AI Agents & Agentic Workflows
+
+### 🔧 Tools & DevOps Basics
 - Git & GitHub
-- Cloudinary (image & file uploads)
+- Axios
+- Cloudinary
+- Postman
 
-### 🧠 Programming & CS Fundamentals
+### 🧠 Computer Science Fundamentals
 - C++
-- Data Structures & Algorithms (DSA)
-- Time & Space Complexity
-- Arrays, Searching (Linear & Binary)
-- Number Theory (GCD, LCM, Sieve, Modulo, Fast Exponentiation)
-- Pointers & Memory Concepts
-
-### 🚀 Currently Exploring
-- Advanced DSA
-- System Design Basics
-- Scalable Backend Architecture
+- Data Structures & Algorithms
+- Time & Space Complexity Analysis
+- Arrays, Searching & Sorting
+- Number Theory (GCD, LCM, Modular Arithmetic, Sieve)
+- Pointers & Memory Management
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/DhruvSolanki01259/ai-study-buddy-agent">
@@ -69,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhruvSolanki01259&show_icons=true&theme=radical" height="160"/>
@@ -87,18 +97,24 @@
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
-  <a href="mailto:dhruvsolanki0129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhruv-solanki-699679313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhruvsolanki0129@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-solanki-699679313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-⭐️ From [DhruvSolanki01259](https://github.com/DhruvSolanki01259)
+⭐ From [DhruvSolanki01259](https://github.com/DhruvSolanki01259)
