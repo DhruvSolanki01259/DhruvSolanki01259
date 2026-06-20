@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
-<h3 align="center">🚀 Engineering Student @ KJ Somaiya Institute of Technology</h3>
-<h4 align="center">💻 MERN Stack Developer | 📚 DSA Learner</h4>
+<h3 align="center">🚀 Engineering Graduate (2026) @ KJ Somaiya Institute of Technology</h3>
+<h4 align="center">💻 AI Full Stack Developer </h4>
 
 ---
 
@@ -13,37 +13,57 @@
 ---
 
 ## 🌱 About Me
-- 🔭 Currently exploring **React Animations (Framer Motion)** & **System Design basics**  
+- 🔭 Currently exploring **LangChain, LangGraph, RAG, AI Integration, AI Agents** & **Agentic AI**  
 - 📚 Deep-diving into **DSA (C++)**  
-- 🎨 Love creating clean **UI/UX with Tailwind**  
+- 🎨 Love creating clean **UI/UX with Tailwind and Next.js**  
 - ⚡ Fun Fact: I debug faster when I have coffee 🍵 nearby  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+### 💻 Frontend
+- React.js
+- Next.js (basics / learning phase if you're using it)
+- Tailwind CSS
+- Framer Motion
+- HTML5, CSS3, JavaScript (ES6+)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication (JWT, password reset flows)
+
+### 🗄️ Database
+- MongoDB
+- Mongoose
+
+### 🔗 Tools & Libraries
+- Axios
+- Git & GitHub
+- Cloudinary (image & file uploads)
+
+### 🧠 Programming & CS Fundamentals
+- C++
+- Data Structures & Algorithms (DSA)
+- Time & Space Complexity
+- Arrays, Searching (Linear & Binary)
+- Number Theory (GCD, LCM, Sieve, Modulo, Fast Exponentiation)
+- Pointers & Memory Concepts
+
+### 🚀 Currently Exploring
+- Advanced DSA
+- System Design Basics
+- Scalable Backend Architecture
 
 ---
 
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/DhruvSolanki01259/3-Simple-Chat-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=3-Simple-Chat-Application&theme=radical" width="45%" />
+  <a href="https://github.com/DhruvSolanki01259/ai-study-buddy-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ai-study-buddy-agent&theme=radical" width="45%" />
   </a>
 </p>
 
