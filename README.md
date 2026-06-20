@@ -43,7 +43,7 @@
 
 ### 🗄️ Database
 - MongoDB
-- Mongoose ODM
+- MySQL
 
 ### 🤖 AI / LLM Stack
 - AI Integration in Web Apps
