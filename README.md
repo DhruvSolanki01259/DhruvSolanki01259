@@ -71,21 +71,20 @@
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/DhruvSolanki01259/ai-study-buddy-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ai-study-buddy-agent&theme=radical&description_lines_count=2" />
-      </a>
-  </td>
-
-  <td align="center" width="50%">
-    <a href="https://github.com/DhruvSolanki01259/ai-weather-tool-agent">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ai-weather-tool-agent&theme=radical&description_lines_count=2" />
-    </a>
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <ul>
+    <li>
+        <a href="https://github.com/DhruvSolanki01259/ai-study-buddy-agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ai-study-buddy-agent&theme=radical" width="45%" />
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/DhruvSolanki01259/ai-weather-tool-agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvSolanki01259&repo=ai-weather-tool-agent&theme=radical" width="45%" />
+        </a>
+    </li>
+  </ul>
+</p>
 
 ---
 
